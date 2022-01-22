@@ -1,0 +1,42 @@
+body{
+    background-image: url("D:/web d/Udemy/image/DM6hvet-dark-wood-wallpaper.png");
+}
+img{
+    border-radius: 100%;
+}
+hr{
+    width: 10%;
+    border-color: gold;
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 5px;
+}
+.table1{
+    color: greenyellow;
+}
+.nameplate{
+    color: rgb(8, 122, 167);
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+h1{
+    color: white;
+}
+li{
+    color: yellow;
+}
+a{
+    color: pink;
+    text-decoration: none;
+}
+a:hover{
+    color: gold;
+    text-decoration: none;
+}
+label{
+    color: greenyellow;
+}
